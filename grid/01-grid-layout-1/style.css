@@ -30,11 +30,13 @@ body, html {
 
 .sidebar {
   background-color: #FF7755;
-  grid-column: 2 / 4;
+  grid-row: 2 / 4;
 }
 
 .nav {
   background-color: #00DDFF;
+  grid-column: 2 / 4;
+  margin-right: 15px;
 }
 
 .article {
